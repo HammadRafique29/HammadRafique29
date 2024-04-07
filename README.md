@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Hammad Rafique</h1>
 <p>A passionate Software Engineer & Python Developer</p>
+<p>I'm a Python developer with a passion for crafting clean and efficient code. I specialize in creating software solutions that solve real-world problems and enhance user experiences. From web applications to automation scripts, I love turning ideas into functional and user-friendly programs.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
@@ -34,4 +35,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/hammad-rafique-hr029" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/hammad_rafique1449" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.instagram.com/hammad_rafique1449" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://upwork.com/freelancers/hammadr33" style="display: inline-block;"><img src="https://img.shields.io/badge/upwork-logo?style=for-the-badge&logo=upwork&logoColor=white&color=green" alt="Upwork" /></a>
+<a target="_blank" href="https://www.skype.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/skype-logo?style=for-the-badge&logo=skype&logoColor=white&color=blue" alt="Upwork" /></a>
+<a target="_blank" href="pythondeveloper029@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/email-logo?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Gmail" /></a></p>
