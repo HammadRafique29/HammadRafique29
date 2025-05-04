@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Hammad Rafique</h1>
-<p>A passionate Software Engineer & Python Developer</p>
-<p>With a passion for crafting clean and efficient code. I specialize in creating software solutions that solve real-world problems and enhance user experiences. From web applications to automation scripts, I love turning ideas into functional and user-friendly programs.</p>
+<p>Software Engineer | Python Enthusiast | Future Cybersecurity Expert</p>
+<p>With a passion for crafting clean and efficient code. I specialize in creating software solutions that solve real-world problems and enhance user experiences. From building applications and handling servers to content generation and automation scripts — I love turning ideas into functional, user-friendly solutions.</p>
 
 https://hammadrafique29.github.io/HammadRafique/
 
